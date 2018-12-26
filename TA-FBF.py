@@ -9,7 +9,7 @@ def print_logo():
 
     x = '''
 	==================================
-	|            TA-FBT            |
+	|            TA-FBF              |
 	|     Greetz to n00b's Teams     |
 	|--------------------------------|
 	|   CoDeD By TA Hacker (@391F)   |
